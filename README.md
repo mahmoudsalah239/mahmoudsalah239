@@ -1,4 +1,6 @@
 ## Hi there 👋 I'm Mahmoud Salah
+Empowering the digital realm as a Front End Developer specializing in Angular, igniting innovation with every line of code
+
 
 <!--
 **mahmoudsalah239/mahmoudsalah239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
