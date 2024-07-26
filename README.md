@@ -34,7 +34,7 @@ I'm a passionate front-end developer with a knack for creating seamless and dyna
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
-  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET">
+  <img src="https://img.icons8.com/color/48/000000/.net.png" alt=".NET">
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
