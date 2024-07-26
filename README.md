@@ -1,8 +1,12 @@
-# Hi there 👋, I'm Mahmoud Salah!
+<h1 align="center">Hi there 👋, I'm Mahmoud Salah!</h1>
 
-🚀 **Front-end Developer** | 🌐 **Angular Enthusiast** | 💡 **Innovator**
+<p align="center">
+  🚀 <strong>Front-end Developer</strong> | 🌐 <strong>Angular Enthusiast</strong> | 💡 <strong>Innovator</strong>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahmoudsalah239&color=brightgreen&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudsalah239&color=brightgreen&style=flat-square" alt="Profile Views">
+</p>
 
 ---
 
@@ -18,39 +22,45 @@ I'm a passionate front-end developer with a knack for creating seamless and dyna
 ---
 
 ## Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mahm0udsalah/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
 
 ## Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack">
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
+  <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET">
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass">
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
+  <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack">
 </p>
 
 ---
 
 ## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah239&layout=compact&theme=default)](https://github.com/mahmoudsalah239/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/mahmoudsalah239/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah239&layout=compact&theme=default" alt="Top Languages">
+  </a>
+</p>
 
 ---
 
 ## Contributions and Streaks:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsalah239&theme=default" alt="GitHub Streak">
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsalah239&theme=default" alt="GitHub Streak">
+  </a>
 </p>
 
 ---
