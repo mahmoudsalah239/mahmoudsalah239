@@ -35,6 +35,6 @@ I'm a passionate front-end developer with a knack for creating seamless and dyna
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah239&layout=compact&theme=default)](https://github.com/mahmoudsalah239/github-readme-stats)
 
 ## Contributions and Streaks:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsalah239&theme=default)](https://git.io/streak-stats)
 
 Let's connect and create something amazing together! 😊
