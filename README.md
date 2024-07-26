@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Mahmoud Salah
 Empowering the digital realm as a Front End Developer specializing in Angular, igniting innovation with every line of code
+![Profile views](https://komarev.com/ghpvc/?username=mahmoudsalah239&color=blue&style=flat-square)
 
 
 <!--
